@@ -1,0 +1,10 @@
+package myPackage;
+
+public class LongestSubStringSequence {
+	public static void main(String[] args) {
+		
+	}
+	private static void printLongestSubStringSequence(char[] str){
+		
+	}
+}

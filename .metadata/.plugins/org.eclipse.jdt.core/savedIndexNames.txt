@@ -1,0 +1,3 @@
+INDEX VERSION 1.129+C:\Users\Ajay483\Documents\GitHub\PlayWithStrings\.metadata\.plugins\org.eclipse.jdt.core
+255855157.index
+4245861753.index

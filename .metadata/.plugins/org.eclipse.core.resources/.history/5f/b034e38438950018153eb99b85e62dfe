@@ -1,0 +1,17 @@
+package myPackage;
+
+import java.util.Scanner;
+
+public class LongestSubStringSequence {
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		System.out.println("Enter the String");
+		char[] str = in.nextLine().toCharArray();
+		//char[] str = in.nextLine().toLowerCase().toCharArray();  -- Use this if case insensitive
+		printLongestSubStringSequence(str);
+		in.close();
+	}
+	private static void printLongestSubStringSequence(char[] str){
+		
+	}
+}
